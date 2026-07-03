@@ -1,0 +1,1 @@
+{"signature":"ATx4Fugg9V7kGQ97pVkdQOe6aPnceyUS5oE2G/hjZxCGFtqDcOyLTVFeCoS9f0ibAkjyAvORzc0UG4ihvNp5Cw==","timestamp":"2026-07-03T15:55:02.737077788Z","key_id":"e1807fe59b3b1fb1","algorithm":"ed25519","hash_algo":"blake2s"}

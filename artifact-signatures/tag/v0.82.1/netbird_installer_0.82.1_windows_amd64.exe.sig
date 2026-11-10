@@ -1,0 +1,1 @@
+{"signature":"QSfkDNc/BiCM91/bfqlGDCOtOpzBLLZqTmHSn3aRS3J1Oln7+UCDzR2eZ6eejwngMgt5Po+bb4RtxwhTyKZmBQ==","timestamp":"2026-11-10T09:42:53.867774731Z","key_id":"e1807fe59b3b1fb1","algorithm":"ed25519","hash_algo":"blake2s"}
